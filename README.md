@@ -6,6 +6,11 @@ This project demonstrates how to connect to an SMTP server, log in securely, and
 
 ---
 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-Email_Automation-blue)
+
+
+
 ## 📂 Project Structure
 Email-Project/
 - main.py        – primary email-sending script
